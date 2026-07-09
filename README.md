@@ -121,7 +121,7 @@ streamlit run app.py
 This project also includes a research paper covering:
 ### 📥 Download Research Paper
 
-[Healthcare Analytics Research Paper](Healthcare_Analytics_Research_Paper.pdf)
+[Healthcare Analytics Research Paper](Healthcare_Analytics_Research_Paper.pages)
 
 - Introduction
 - Methodology
