@@ -94,9 +94,27 @@ streamlit run app.py
 
 ## 📷 Dashboard Preview
 
-(Add screenshots here)
+### 🏠 Dashboard Home
+
+![Dashboard Home](dashboard_home.png)
 
 ---
+
+### 📊 CBP vs HHS Comparison
+
+![CBP vs HHS](comparison.png)
+
+---
+
+### 📈 Healthcare Trends
+
+![Healthcare Trends](trends.png)
+
+---
+
+### 📋 Executive Insights
+
+![Executive Insights](insights.png)
 
 ## 📑 Research Paper
 
